@@ -1,6 +1,6 @@
 ﻿#Switch Statement Practice
 
-<#What I learned: Switch Statements can be used to map a users input to the
+<#My Thoughts: Switch Statements can be used to map a users input to the
 values in the switch "table" to supply a output linked to those values.#>
 
 cls
