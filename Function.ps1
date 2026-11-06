@@ -9,6 +9,9 @@ function Get-Hash {
 $secret = pwd
 $rsecret = Get-ChildItem $secret
 $hsecret = Get-FileHash $rsecret -Algorithm SHA512
+<#The $hsecret variable can be made by doing $hsecret = Get-FileHash $secret -Algorithm SHA512
+as well. Again this is a weird function with a ton of redundancies, but it's laid out that way 
+so what it's actually doing is easier to understand#>
 
 $jawn = read-host "This is a test, so type something"
 
