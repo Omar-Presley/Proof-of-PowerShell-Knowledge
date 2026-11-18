@@ -9,6 +9,8 @@ then use the program again later to check the integrity of those files.
 Purpose: To helps users check file hashes to ensure file integrity without knowing or having to type longer
 PowerShell commands. #>
 
+#Note for future -- Add a feature for hidden files, and add error handling to specify if access is denied or if there are folders missing.  
+
 cls
 
 <#Hashtable that holds all commands#>
