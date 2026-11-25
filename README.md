@@ -1,5 +1,5 @@
 # Proof-of-Concept-PowerShell-Knowledge
-This will host some of my beginner programs, I use as a refresher for what I have learned at a foundational and intermediate level.
+This will host some of my beginner programs that I use as a refresher for what I have learned at a foundational and intermediate level.
 
 ---
 Hopefully this will have all fundamental scripts needed for making bigger scripts and automation projects.
