@@ -1,4 +1,4 @@
-# Proof-of-Concept-PowerShell-Knowledge
+# Proof-of-PowerShell-Knowledge
 This will host some of my beginner programs that I use as a refresher for what I have learned at a foundational and intermediate level.
 
 ---
