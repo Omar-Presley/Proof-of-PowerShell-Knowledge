@@ -9,3 +9,13 @@ $Shrek = @("Fiona", "Donkey", "Shrek", "Dragron","The Muffin Man")
 Foreach($instance in $Shrek){
     Write-Host "Hey," $instance "is here"
 }
+
+
+<#Another common example:#>
+
+$players = "lebrron", "curry", "harden", "irving", "Iverson"
+
+foreach ($player in $players) {
+    cls
+    Write-Host $player "is my favorite player"
+}
