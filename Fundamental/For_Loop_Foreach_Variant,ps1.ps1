@@ -13,7 +13,7 @@ Foreach($instance in $Shrek){
 
 <#Another common example:#>
 
-$players = "lebrron", "curry", "harden", "irving", "Iverson"
+$players = "lebron", "curry", "harden", "irving", "Iverson"
 
 foreach ($player in $players) {
     cls
